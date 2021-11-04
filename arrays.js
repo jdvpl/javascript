@@ -1,4 +1,4 @@
-const numeros = [1, 2, 3, 4, 5, 6, 5, 6, 6, 6, 6, 52, 12, 65, 2, 2, 2, 52, 65, 65, 65, 65, 65, 65, 5, 8565, 65, 65, 65, 65, 65, 65]
+const numeros = [65, 65, 65, 65, 65, 5, 8565, 65, 65, 65, 65, 65, 65]
 
 document.write(numeros)
 
@@ -20,4 +20,9 @@ numeros.map((numero, i) => {
   document.write("</li>")
 
 })
-document.write("<ul/>")
+document.write("</ul>")
+
+// destructuring
+
+const [jiren, vegueta, goku, saitama] = ["jiren", "vegueta", "goku", "saitama"]
+document.write(saitama)
