@@ -1,3 +1,5 @@
+// toma la copia de algo
+
 const frutas = ["manzana", "uva", "melon"]
 const otras = ["a", "b", "c"]
 
