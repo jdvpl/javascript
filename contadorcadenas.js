@@ -1,5 +1,5 @@
-var micadena="aaasdflkjasldfjlasdf";
-var minumero=3;
+var micadena="asdfasdfasdfasdfasd";
+var minumero=10;
 
 
 const divideCadena =(str,size)=>{
