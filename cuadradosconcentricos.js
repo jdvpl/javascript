@@ -15,5 +15,3 @@ const ccentricos=(n)=>{
 }
 
 ccentricos(n)
-
-w

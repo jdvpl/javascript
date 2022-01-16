@@ -8,4 +8,8 @@ console.log(`El nombre es ${nombre} y el apellido es ${apellido} con templatestr
 const edad = new Date().getFullYear() - 1995;
 
 
-document.write(`Bienvenido ${nombre}, tu edad es de ${edad}`.toUpperCase())
+// document.write(`Bienvenido ${nombre}, tu edad es de ${edad}`.toUpperCase())
+
+const html = `<h1>Hola</h1> <p>insetos</p>`
+
+console.log(html)
